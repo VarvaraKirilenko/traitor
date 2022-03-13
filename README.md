@@ -56,3 +56,4 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 2
 3
 11
+22
